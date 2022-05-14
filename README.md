@@ -9,7 +9,7 @@ A DIY IR Remote for Daikin Air Conditioner powered with an Arudino Nano & IR com
 
 ## Library
 
-The `Arduino_DY_IRDaikin` library is used to facilliated the IR comunication between the Arduino and the AC.
+The `Arduino_DY_IRDaikin` library is used to facilliate the IR comunication between the Arduino and the AC.
 
 > https://github.com/danny-source/Arduino_DY_IRDaikin
 
